@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ALCproject</string>
+    <string name="about_alc" />
+    <string name="notification_error_ssl_cert_invalid">Error! Give Permisson</string>
+</resources>
